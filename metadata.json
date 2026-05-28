@@ -1,0 +1,6 @@
+{
+  "name": "ViralForge AI",
+  "description": "ViralForge AI is a premium, cinematic AI YouTube Growth Assistant that helps creators optimize titles, thumbnails, hooks, retention, and competitive intelligence to grow faster.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
